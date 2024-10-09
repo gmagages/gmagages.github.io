@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gmagages.github.io/sitemap.html.gz
+Sitemap: https://gmagages.github.io/app/sitemap.html.gz
+Sitemap: https://gmagages.github.io/assets/sitemap.html.gz
+Sitemap: https://gmagages.github.io/css/sitemap.html.gz
+Sitemap: https://gmagages.github.io/includes/sitemap.html.gz
+Sitemap: https://gmagages.github.io/item/sitemap.html.gz
+Sitemap: https://gmagages.github.io/src/sitemap.html.gz
